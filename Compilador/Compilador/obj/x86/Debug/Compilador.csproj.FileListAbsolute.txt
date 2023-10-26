@@ -1,0 +1,36 @@
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\Compilador\obj\x86\Debug\Compilador.Form1.resources
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\Compilador\obj\x86\Debug\Compilador.Properties.Resources.resources
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\Compilador\obj\x86\Debug\Compilador.csproj.GenerateResource.Cache
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\Compilador\obj\x86\Debug\Compilador.exe
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\Compilador\obj\x86\Debug\Compilador.pdb
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\Compilador\obj\x86\Debug\Compilador.csprojResolveAssemblyReference.cache
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\Compilador\bin\Debug\Compilador.exe.manifest
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\Compilador\bin\Debug\Compilador.application
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\Compilador\obj\x86\Debug\Compilador.exe.manifest
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\Compilador\obj\x86\Debug\Compilador.application
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Compilador\bin\Debug\Compilador.exe.manifest
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Compilador\bin\Debug\Compilador.application
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Compilador\obj\x86\Debug\Compilador.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Compilador\obj\x86\Debug\Compilador.Form1.resources
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Compilador\obj\x86\Debug\Compilador.Properties.Resources.resources
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Compilador\obj\x86\Debug\Compilador.csproj.GenerateResource.Cache
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Compilador\obj\x86\Debug\Compilador.exe.manifest
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Compilador\obj\x86\Debug\Compilador.application
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Compilador\obj\x86\Debug\Compilador.exe
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Compilador\obj\x86\Debug\Compilador.pdb
+C:\Users\gemva\Desktop\Compilador\Compilador\bin\Debug\Compilador.exe.manifest
+C:\Users\gemva\Desktop\Compilador\Compilador\bin\Debug\Compilador.application
+C:\Users\gemva\Desktop\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\gemva\Desktop\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\gemva\Desktop\Compilador\Compilador\obj\x86\Debug\Compilador.csprojResolveAssemblyReference.cache
+C:\Users\gemva\Desktop\Compilador\Compilador\obj\x86\Debug\Compilador.Form1.resources
+C:\Users\gemva\Desktop\Compilador\Compilador\obj\x86\Debug\Compilador.Properties.Resources.resources
+C:\Users\gemva\Desktop\Compilador\Compilador\obj\x86\Debug\Compilador.csproj.GenerateResource.Cache
+C:\Users\gemva\Desktop\Compilador\Compilador\obj\x86\Debug\Compilador.exe.manifest
+C:\Users\gemva\Desktop\Compilador\Compilador\obj\x86\Debug\Compilador.application
+C:\Users\gemva\Desktop\Compilador\Compilador\obj\x86\Debug\Compilador.exe
+C:\Users\gemva\Desktop\Compilador\Compilador\obj\x86\Debug\Compilador.pdb

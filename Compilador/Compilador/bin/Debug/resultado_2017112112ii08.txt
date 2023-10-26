@@ -1,0 +1,11 @@
+<PLV_RES> ::= Program | var | integer | real | begin | for | to | do | end
+<STRING> ::= "******** ENTRADA DE DADOS ***************" | "Digite o total de alunos" | "Digite os valores da primeira nota do aluno " | "Digite os valores da segunda nota do aluno " | "Media = " | "Media Geral = "
+<ID> ::= Piloto | cont | total | Nota1 | Nota2 | Media_das_medias | med | media_das_medias | write | read | total | med | Nota1+Nota2 | Media_das_medias/total
+<NUM_INT> ::= 0 | 
+<NUM_REAL> ::= 1 | 2.0
+<OP_ARIT> ::= / | +
+<OP_RELAC> ::= =
+<SIMB_ESP> ::= ; | , | : | ( | )
+<ATRIB> ::= :=
+<FIM> ::= .
+

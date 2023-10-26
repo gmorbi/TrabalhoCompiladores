@@ -1,0 +1,11 @@
+<PLV_RES> ::= program | var | integer | const | begin | if | then | else | end
+<STRING> ::= 
+<ID> ::= teste | x | y | pi | read | x | y | writeln | write
+<NUM_INT> ::= 
+<NUM_REAL> ::= 3.1416
+<OP_ARIT> ::= -
+<OP_RELAC> ::= >
+<SIMB_ESP> ::= ; | , | : | ( | )
+<ATRIB> ::= :=
+<FIM> ::= .
+

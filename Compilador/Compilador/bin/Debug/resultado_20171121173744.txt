@@ -1,0 +1,11 @@
+<PLV_RES> ::= program | var | string | begin | end
+<STRING> ::= 
+<ID> ::= b | b
+<NUM_INT> ::= 
+<NUM_REAL> ::= 
+<OP_ARIT> ::= 
+<OP_RELAC> ::= 
+<SIMB_ESP> ::= ; | : | ( | )
+<ATRIB> ::= 
+<FIM> ::= .
+

@@ -1,0 +1,44 @@
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\WindowsFormsApplication1\bin\Debug\Fase2.exe
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\WindowsFormsApplication1\bin\Debug\Fase2.pdb
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\WindowsFormsApplication1\obj\x86\Debug\Fase2.Form1.resources
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\WindowsFormsApplication1\obj\x86\Debug\Fase2.Properties.Resources.resources
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\WindowsFormsApplication1\obj\x86\Debug\Fase2.csproj.GenerateResource.Cache
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\WindowsFormsApplication1\obj\x86\Debug\Fase2.exe
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\WindowsFormsApplication1\obj\x86\Debug\Fase2.pdb
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\WindowsFormsApplication1\bin\Debug\Compilador.exe
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\WindowsFormsApplication1\bin\Debug\Compilador.pdb
+C:\Users\wclpelicari\Desktop\Compilador\Compilador\WindowsFormsApplication1\obj\x86\Debug\Fase2.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\WindowsFormsApplication1\obj\x86\Debug\Fase2.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\WindowsFormsApplication1\obj\x86\Debug\Fase2.Form1.resources
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\WindowsFormsApplication1\obj\x86\Debug\Fase2.Properties.Resources.resources
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\WindowsFormsApplication1\obj\x86\Debug\Fase2.csproj.GenerateResource.Cache
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\WindowsFormsApplication1\bin\Debug\Fase2.exe
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\WindowsFormsApplication1\bin\Debug\Fase2.pdb
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\WindowsFormsApplication1\bin\Debug\Compilador.exe
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\WindowsFormsApplication1\bin\Debug\Compilador.pdb
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\WindowsFormsApplication1\obj\x86\Debug\Fase2.exe
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\WindowsFormsApplication1\obj\x86\Debug\Fase2.pdb
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Fase2\obj\x86\Debug\Fase2.exe
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Fase2\obj\x86\Debug\Fase2.pdb
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Fase2\bin\Debug\Fase2.exe
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Fase2\bin\Debug\Fase2.pdb
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Fase2\bin\Debug\Compilador.exe
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Fase2\bin\Debug\Compilador.pdb
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Fase2\obj\x86\Debug\Fase2.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Fase2\obj\x86\Debug\Fase2.Form1.resources
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Fase2\obj\x86\Debug\Fase2.Properties.Resources.resources
+C:\Users\Eduardo Oliveira\Documents\Compilador\Compilador\Compilador\Fase2\obj\x86\Debug\Fase2.csproj.GenerateResource.Cache
+C:\Users\gemva\Desktop\Compilador\Fase2\bin\Debug\Fase2.exe.manifest
+C:\Users\gemva\Desktop\Compilador\Fase2\bin\Debug\Fase2.application
+C:\Users\gemva\Desktop\Compilador\Fase2\bin\Debug\Fase2.exe
+C:\Users\gemva\Desktop\Compilador\Fase2\bin\Debug\Fase2.pdb
+C:\Users\gemva\Desktop\Compilador\Fase2\bin\Debug\Compilador.exe
+C:\Users\gemva\Desktop\Compilador\Fase2\bin\Debug\Compilador.pdb
+C:\Users\gemva\Desktop\Compilador\Fase2\obj\x86\Debug\Fase2.csprojResolveAssemblyReference.cache
+C:\Users\gemva\Desktop\Compilador\Fase2\obj\x86\Debug\Fase2.Form1.resources
+C:\Users\gemva\Desktop\Compilador\Fase2\obj\x86\Debug\Fase2.Properties.Resources.resources
+C:\Users\gemva\Desktop\Compilador\Fase2\obj\x86\Debug\Fase2.csproj.GenerateResource.Cache
+C:\Users\gemva\Desktop\Compilador\Fase2\obj\x86\Debug\Fase2.exe.manifest
+C:\Users\gemva\Desktop\Compilador\Fase2\obj\x86\Debug\Fase2.application
+C:\Users\gemva\Desktop\Compilador\Fase2\obj\x86\Debug\Fase2.exe
+C:\Users\gemva\Desktop\Compilador\Fase2\obj\x86\Debug\Fase2.pdb

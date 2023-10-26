@@ -1,0 +1,6 @@
+/* */ 
+program b;
+var b : string;
+begin
+	READ( b );
+end.
